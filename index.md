@@ -1,7 +1,7 @@
 ---
 ---
 
-# yunyunwudalDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Our lab aims to build a nurturing environment that aims to maximize the potential of students as scientists and as human beings.
 
 
 
