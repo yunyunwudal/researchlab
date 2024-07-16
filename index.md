@@ -1,7 +1,7 @@
 ---
 ---
 
-# Our lab aims to build a nurturing environment that aims to maximize the potential of students as scientists and as human beings.
+## Our lab aims to build a nurturing environment that aims to maximize the potential of students as scientists and as human beings.
 
 
 
