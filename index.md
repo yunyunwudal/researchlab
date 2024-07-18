@@ -1,81 +1,10 @@
 ---
 ---
-
-## Our lab aims to build a nurturing environment that aims to maximize the potential of students as scientists and as human beings.
-
-
-
-{% include section.html %}
-
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Developing textile materials and structures for epidermal and implanbtable devices
+Our research vision embraces the use of science and technology as a means to make breakthroughs that will benefit humans and our planet by bringing solutions to serious societal problems, particularly in the field of healthcare. The problem of lack of timely access to quality healthcare is increasingly affecting many in need, often due to shortcomings in hospital-centered systems increasingly burdened by the abundant ailments of an expanding population of the elderly. The recent pandemic has additionally exposed vulnerabilities in medical supply availability. All of this underscores the utility of improving access to advanced biomedical technologies - such as wearable devices - that could reduce the reliance on equipment and instruments located within hospital buildings. That is the strength and promise of wearable devices, such as epidermal/ implantable biosensors: Based on wearable technologies that are low-cost, sustainably produced and readily accessible, key physical health conditions can be observed at user-centric settings in real time, and proactive treatment can be administered before severe illnesses advance to a life-threatening stage. In some cases, these devices themselves can provide therapeutic deliverables, such as drugs or electrical stimulation, a point-of-care method promising to revolutionize parts of the healthcare system by decreasing the load on hospitals. Providing reliable information in this timely and actionable manner has the potential to save both lives and financial resources.
 
 {%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
+  include figure.html
+  image="images/background.jpg"
+  width="90%"
 %}
