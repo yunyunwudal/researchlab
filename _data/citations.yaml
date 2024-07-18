@@ -76,7 +76,6 @@
   publisher: Advanced Materials Technologies
   date: '2018-01-22'
   link: https://doi.org/gjsf79
-  image: ../images/gold coated fabric.jpg
   orcid: 0000-0002-1536-1488
   plugin: orcid.py
   file: orcid.yaml
