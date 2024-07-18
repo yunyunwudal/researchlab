@@ -5,6 +5,6 @@ Our research vision embraces the use of science and technology as a means to mak
 
 {%
   include figure.html
-  image="images/research overview.jpg"
+  image="images/research overview small.jpg"
   width="90%"
 %}
