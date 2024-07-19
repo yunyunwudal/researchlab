@@ -15,9 +15,5 @@ Our research focuses on developing functional textile/thread/fiber materials and
   width="50%"
 %}
 
-## Projects
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
 
 
