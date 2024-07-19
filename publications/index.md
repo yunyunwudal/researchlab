@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-file-signature" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+You can find our publications on [Google Scholar] (https://scholar.google.com/citations?user=3anVhr8AAAAJ&hl=en).
 
 {% include section.html %}
 
