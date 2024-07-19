@@ -15,4 +15,4 @@ You can find our publications on [Google Scholar](https://scholar.google.com/cit
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="" %}
+{% include list.html data="citations" component="citation" style="rich" %}
