@@ -11,8 +11,20 @@ You can find our publications on [Google Scholar](https://scholar.google.com/cit
 
 {% include section.html %}
 
+## Highlighted
+{%
+  include list.html
+  data="citations"
+  component="citation"
+  filters="group: featured"
+  style="rich"
+%}
+{% include section.html %}
+
+## All
+
 {% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="" %}
