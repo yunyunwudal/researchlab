@@ -1,6 +1,6 @@
 ---
 name: Yunyun Wu
-image: images/photo.jpg
+image: images/team/yunyunwu.jpg
 role: pi
 affiliation: Dalhousie University
 aliases:
