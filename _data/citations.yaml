@@ -1,5 +1,208 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/advs.202301232
+  title: Implantable, Bioresorbable Radio Frequency Resonant Circuits for Magnetic
+    Resonance Imaging
+  authors:
+  - Geumbee Lee
+  - Mark D. Does
+  - Raudel Avila
+  - Juyeon Kang
+  - Kevin D. Harkins
+  - Yunyun Wu
+  - William E. Banks
+  - Minsu Park
+  - Di Lu
+  - Xinqiang Yan
+  - Jong Uk Kim
+  - Sang Min Won
+  - Adam G. Evans
+  - Jeremy T. Joseph
+  - Christopher L. Kalmar
+  - Alonda C. Pollins
+  - Huseyin Karagoz
+  - Wesley P. Thayer
+  - Yonggang Huang
+  - John A. Rogers
+  publisher: Advanced Science
+  date: '2023-06-25'
+  link: https://doi.org/gt4s94
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuron.2024.02.020
+  title: An implantable device for wireless monitoring of diverse physio-behavioral
+    characteristics in freely behaving small animals and interacting groups
+  authors:
+  - Wei Ouyang
+  - Keith J. Kilner
+  - Rachael M.P. Xavier
+  - Yiming Liu
+  - Yinsheng Lu
+  - Sophia M. Feller
+  - Kayla M. Pitts
+  - Mingzheng Wu
+  - Jokubas Ausra
+  - Ian Jones
+  - Yunyun Wu
+  - Haiwen Luan
+  - Jacob Trueb
+  - Elizabeth M. Higbee-Dempsey
+  - Iwona Stepien
+  - Nayereh Ghoreishi-Haack
+  - Chad R. Haney
+  - Hao Li
+  - Yevgenia Kozorovitskiy
+  - Mitra Heshmati
+  - Anthony R. Banks
+  - Sam A. Golden
+  - Cameron H. Good
+  - John A. Rogers
+  publisher: Neuron
+  date: '2024-06-01'
+  link: https://doi.org/gt4s95
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2400868121
+  title: A wireless, implantable bioelectronic system for monitoring urinary bladder
+    function following surgical recovery
+  authors:
+  - Jihye Kim
+  - Matthew I. Bury
+  - Kyeongha Kwon
+  - Jae-Young Yoo
+  - Nadia V. Halstead
+  - Hee-Sup Shin
+  - Shupeng Li
+  - Sang Min Won
+  - Min-Ho Seo
+  - Yunyun Wu
+  - Do Yun Park
+  - Mitali Kini
+  - Jean Won Kwak
+  - Surabhi R. Madhvapathy
+  - Joanna L. Ciatti
+  - Jae Hee Lee
+  - Suyeon Kim
+  - Hanjun Ryu
+  - Kento Yamagishi
+  - Hong-Joon Yoon
+  - Sung Soo Kwak
+  - Bosung Kim
+  - Yonggang Huang
+  - Lisa C. Halliday
+  - Earl Y. Cheng
+  - Guillermo A. Ameer
+  - Arun K. Sharma
+  - John A. Rogers
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-03-28'
+  link: https://doi.org/gt4s96
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.adk9880
+  title: Bioresorbable shape-adaptive structures for ultrasonic monitoring of deep-tissue
+    homeostasis
+  authors:
+  - Jiaqi Liu
+  - Naijia Liu
+  - Yameng Xu
+  - Mingzheng Wu
+  - Haohui Zhang
+  - Yue Wang
+  - Ying Yan
+  - Angela Hill
+  - Ruihao Song
+  - Zijie Xu
+  - Minsu Park
+  - Yunyun Wu
+  - Joanna L. Ciatti
+  - Jianyu Gu
+  - Haiwen Luan
+  - Yamin Zhang
+  - Tianyu Yang
+  - Hak-Young Ahn
+  - Shupeng Li
+  - Wilson Z. Ray
+  - Colin K. Franz
+  - Matthew R. MacEwan
+  - Yonggang Huang
+  - Chet W. Hammill
+  - Heling Wang
+  - John A. Rogers
+  publisher: Science
+  date: '2024-03-08'
+  link: https://doi.org/gt4s97
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/smll.202305017
+  title: A Sewing Approach to the Fabrication of Eco/bioresorbable Electronics
+  authors:
+  - Yunyun Wu
+  - Eric Rytkin
+  - Miles Bimrose
+  - Shupeng Li
+  - Yeon Sik Choi
+  - Geumbee Lee
+  - Yue Wang
+  - Lichao Tang
+  - Micah Madrid
+  - Grace Wickerson
+  - "Jan\u2010Kai Chang"
+  - Jianyu Gu
+  - Yamin Zhang
+  - Jiaqi Liu
+  - Sameh Tawfick
+  - Yonggang Huang
+  - William P. King
+  - Igor R. Efimov
+  - John A. Rogers
+  publisher: Small
+  date: '2023-08-01'
+  link: https://doi.org/gt4s9h
+  orcid: 0000-0002-1536-1488
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/50acb737-5b39-4054-aeb4-5a3d0f012df7/smll202370409-gra-0001-m.jpg
+- id: doi:10.1038/s41591-023-02637-5
+  title: Wireless broadband acousto-mechanical sensing system for continuous physiological
+    monitoring
+  authors:
+  - Jae-Young Yoo
+  - Seyong Oh
+  - Wissam Shalish
+  - Woo-Youl Maeng
+  - Emily Cerier
+  - Emily Jeanne
+  - Myung-Kun Chung
+  - Shasha Lv
+  - Yunyun Wu
+  - Seonggwang Yoo
+  - Andreas Tzavelis
+  - Jacob Trueb
+  - Minsu Park
+  - Hyoyoung Jeong
+  - Efe Okunzuwa
+  - Slobodanka Smilkova
+  - Gyeongwu Kim
+  - Junha Kim
+  - Gooyoon Chung
+  - Yoonseok Park
+  - Anthony Banks
+  - Shuai Xu
+  - "Guilherme M. Sant\u2019Anna"
+  - Debra E. Weese-Mayer
+  - Ankit Bharat
+  - John A. Rogers
+  publisher: Nature Medicine
+  date: '2023-11-16'
+  link: https://doi.org/gt4s98
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/admt.202300732
   title: "Thermoplastic Elastomers for Wireless, Skin\u2010Interfaced Electronic,\
     \ and Microfluidic Devices"
@@ -19,6 +222,313 @@
   publisher: Advanced Materials Technologies
   date: '2023-07-16'
   link: https://doi.org/gs4txp
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adfm.202302256
+  title: "Multifunctional Materials Strategies for Enhanced Safety of Wireless, Skin\u2010\
+    Interfaced Bioelectronic Devices"
+  authors:
+  - Claire Liu
+  - "Jin\u2010Tae Kim"
+  - Da Som Yang
+  - Donghwi Cho
+  - Seonggwang Yoo
+  - Surabhi R. Madhvapathy
+  - Hyoyoung Jeong
+  - Tianyu Yang
+  - Haiwen Luan
+  - Raudel Avila
+  - Jihun Park
+  - Yunyun Wu
+  - Kennedy Bryant
+  - Min Cho
+  - JiYong Lee
+  - Jay Young Kwak
+  - WonHyoung Ryu
+  - Yonggang Huang
+  - Ralph G. Nuzzo
+  - John A. Rogers
+  publisher: Advanced Functional Materials
+  date: '2023-05-10'
+  link: https://doi.org/gr8gs7
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41551-023-01029-x
+  title: A wireless and battery-less implant for multimodal closed-loop neuromodulation
+    in small animals
+  authors:
+  - Wei Ouyang
+  - Wei Lu
+  - Yamin Zhang
+  - Yiming Liu
+  - Jong Uk Kim
+  - Haixu Shen
+  - Yunyun Wu
+  - Haiwen Luan
+  - Keith Kilner
+  - Stephen P. Lee
+  - Yinsheng Lu
+  - Yiyuan Yang
+  - Jin Wang
+  - Yongjoon Yu
+  - Amy J. Wegener
+  - Justin A. Moreno
+  - Zhaoqian Xie
+  - Yixin Wu
+  - Sang Min Won
+  - Kyeongha Kwon
+  - Changsheng Wu
+  - Wubin Bai
+  - Hexia Guo
+  - Tzu-li Liu
+  - Hedan Bai
+  - Giuditta Monti
+  - Jason Zhu
+  - Surabhi R. Madhvapathy
+  - Jacob Trueb
+  - Maria Stanslaski
+  - Elizabeth M. Higbee-Dempsey
+  - Iwona Stepien
+  - Nayereh Ghoreishi-Haack
+  - Chad R. Haney
+  - Tae-il Kim
+  - Yonggang Huang
+  - Roozbeh Ghaffari
+  - Anthony R. Banks
+  - Thomas C. Jhou
+  - Cameron H. Good
+  - John A. Rogers
+  publisher: Nature Biomedical Engineering
+  date: '2023-04-27'
+  link: https://doi.org/gsg8b2
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2217734120
+  title: Self-powered, light-controlled, bioresorbable platforms for programmed drug
+    delivery
+  authors:
+  - Yamin Zhang
+  - Fei Liu
+  - Yuhe Zhang
+  - Jin Wang
+  - "Dominic D\u2019Andrea"
+  - Jordan B. Walters
+  - Shupeng Li
+  - Hong-Joon Yoon
+  - Mingzheng Wu
+  - Shuo Li
+  - Ziying Hu
+  - Tong Wang
+  - Junhwan Choi
+  - Keith Bailey
+  - Elizabeth Dempsey
+  - Kaiyu Zhao
+  - Anastasia Lantsova
+  - Yasmine Bouricha
+  - Ivy Huang
+  - Hexia Guo
+  - Xinchen Ni
+  - Yunyun Wu
+  - Geumbee Lee
+  - Fuchang Jiang
+  - Yonggang Huang
+  - Colin K. Franz
+  - John A. Rogers
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-03-08'
+  link: https://doi.org/gt4s99
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/d2tc03459j
+  title: The synergistic effect of topography and stiffness as a crack engineering
+    strategy for stretchable electronics
+  authors:
+  - Sara S. Mechael
+  - "Gloria M. D\u2019Amaral"
+  - Yunyun Wu
+  - Kory Schlingman
+  - Brittany Ives
+  - R. Stephen Carmichael
+  - Tricia Breen Carmichael
+  publisher: Journal of Materials Chemistry C
+  date: '2023-01-01'
+  link: https://doi.org/gt4tbb
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsaelm.2c01161
+  title: Engineering the Cracking Patterns in Stretchable Copper Films Using Acid-Oxidized
+    Poly(dimethylsiloxane) Substrates
+  authors:
+  - Yunyun Wu
+  - Kory Schlingman
+  - Sara S. Mechael
+  - Yiting Chen
+  - Tricia Breen Carmichael
+  publisher: ACS Applied Electronic Materials
+  date: '2022-10-26'
+  link: https://doi.org/gt4tbc
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41746-022-00691-w
+  title: Soft skin-interfaced mechano-acoustic sensors for real-time monitoring and
+    patient feedback on respiratory and swallowing biomechanics
+  authors:
+  - Youn J. Kang
+  - Hany M. Arafa
+  - Jae-Young Yoo
+  - Cagla Kantarcigil
+  - Jin-Tae Kim
+  - Hyoyoung Jeong
+  - Seonggwang Yoo
+  - Seyong Oh
+  - Joohee Kim
+  - Changsheng Wu
+  - Andreas Tzavelis
+  - Yunyun Wu
+  - Kyeongha Kwon
+  - Joshua Winograd
+  - Shuai Xu
+  - Bonnie Martin-Harris
+  - John A. Rogers
+  publisher: npj Digital Medicine
+  date: '2022-09-20'
+  link: https://doi.org/gt4tbd
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aelm.202100928
+  title: "From Chlorinated Solvents to Branched Polyethylene: Solvent\u2010Induced\
+    \ Phase Separation for the Greener Processing of Semiconducting Polymers"
+  authors:
+  - Yunyun Wu
+  - Michael U. Ocheje
+  - Sara S. Mechael
+  - Yunfei Wang
+  - Eric Landry
+  - Xiaodan Gu
+  - Peng Xiang
+  - Tricia Breen Carmichael
+  - "Simon Rondeau\u2010Gagn\xE9"
+  publisher: Advanced Electronic Materials
+  date: '2021-10-15'
+  link: https://doi.org/gr9232
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.xpro.2021.100832
+  title: Protocol for fabricating electroless nickel immersion gold strain sensors
+    on nitrile butadiene rubber gloves for wearable electronics
+  authors:
+  - Sara S. Mechael
+  - Yunyun Wu
+  - Yiting Chen
+  - Tricia Breen Carmichael
+  publisher: STAR Protocols
+  date: '2021-12-01'
+  link: https://doi.org/gt4tbf
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.accounts.1c00433
+  title: Wearable E-Textiles Using a Textile-Centric Design Approach
+  authors:
+  - Yunyun Wu
+  - Sara S. Mechael
+  - Tricia Breen Carmichael
+  publisher: Accounts of Chemical Research
+  date: '2021-10-19'
+  link: https://doi.org/gnbd57
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/2058-8585/abf986
+  title: The 2021 flexible and printed electronics roadmap
+  authors:
+  - Yvan Bonnassieux
+  - Christoph J Brabec
+  - Yong Cao
+  - Tricia Breen Carmichael
+  - Michael L Chabinyc
+  - Kwang-Ting Cheng
+  - Gyoujin Cho
+  - Anjung Chung
+  - Corie L Cobb
+  - Andreas Distler
+  - Hans-Joachim Egelhaaf
+  - Gerd Grau
+  - Xiaojun Guo
+  - Ghazaleh Haghiashtiani
+  - Tsung-Ching Huang
+  - Muhammad M Hussain
+  - Benjamin Iniguez
+  - Taik-Min Lee
+  - Ling Li
+  - Yuguang Ma
+  - Dongge Ma
+  - Michael C McAlpine
+  - Tse Nga Ng
+  - "Ronald \xD6sterbacka"
+  - Shrayesh N Patel
+  - Junbiao Peng
+  - Huisheng Peng
+  - Jonathan Rivnay
+  - Leilai Shao
+  - Daniel Steingart
+  - Robert A Street
+  - Vivek Subramanian
+  - Luisa Torsi
+  - Yunyun Wu
+  publisher: Flexible and Printed Electronics
+  date: '2021-05-17'
+  link: https://doi.org/gmgt9q
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1557/s43577-021-00117-0
+  title: Conducting materials as building blocks for electronic textiles
+  authors:
+  - Anja Lund
+  - Yunyun Wu
+  - Benji Fenech-Salerno
+  - Felice Torrisi
+  - Tricia Breen Carmichael
+  - "Christian M\xFCller"
+  publisher: MRS Bulletin
+  date: '2021-06-01'
+  link: https://doi.org/gkzgk6
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isci.2021.102525
+  title: Ready-to-wear strain sensing gloves for human motion sensing
+  authors:
+  - Sara S. Mechael
+  - Yunyun Wu
+  - Yiting Chen
+  - Tricia Breen Carmichael
+  publisher: iScience
+  date: '2021-06-01'
+  link: https://doi.org/gjw9fm
+  orcid: 0000-0002-1536-1488
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.0c16801
+  title: Velour Fabric as an Island-Bridge Architectural Design for Stretchable Textile-Based
+    Lithium-ion Battery Electrodes
+  authors:
+  - Yunyun Wu
+  - Sara S. Mechael
+  - Yiting Chen
+  - Tricia Breen Carmichael
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2020-11-06'
+  link: https://doi.org/gjsf77
   orcid: 0000-0002-1536-1488
   plugin: orcid.py
   file: orcid.yaml
@@ -98,31 +608,25 @@
   orcid: 0000-0002-1536-1488
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/smll.202305017
-  title: A Sewing Approach to the Fabrication of Eco/bioresorbable Electronics
+- id: 10.1002/admt.202300732
+  title: "Thermoplastic Elastomers for Wireless, Skin\u2010Interfaced Electronic,\
+    \ and Microfluidic Devices"
   authors:
   - Yunyun Wu
-  - Eric Rytkin
-  - Miles Bimrose
-  - Shupeng Li
-  - Yeon Sik Choi
-  - Geumbee Lee
-  - Yue Wang
-  - Lichao Tang
-  - Micah Madrid
-  - Grace Wickerson
+  - Claire Liu
+  - Mia Lapiere
+  - Joanna L. Ciatti
+  - Da Som Yang
+  - Jaime Berkovich
+  - Jeffrey B. Model
+  - Anthony Banks
+  - Roozbeh Ghaffari
   - "Jan\u2010Kai Chang"
-  - Jianyu Gu
-  - Yamin Zhang
-  - Jiaqi Liu
-  - Sameh Tawfick
-  - Yonggang Huang
-  - William P. King
-  - Igor R. Efimov
+  - Ralph G. Nuzzo
   - John A. Rogers
-  publisher: Small
-  date: '2023-08-01'
-  link: https://doi.org/gt4s9h
-  image: https://onlinelibrary.wiley.com/cms/asset/50acb737-5b39-4054-aeb4-5a3d0f012df7/smll202370409-gra-0001-m.jpg
+  publisher: Advanced Materials Technologies
+  date: '2023-07-16'
+  link: https://doi.org/gs4txp
+  image: https://onlinelibrary.wiley.com/cms/asset/711474f4-5913-4d34-a0fd-6546801a1d55/admt202370101-gra-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
