@@ -11,7 +11,7 @@ Our research vision embraces the use of science and technology as a means to mak
 
 Our research focuses on the development of sustainable and/or eco/bioresorbable electronic/microfluidic devices, biosensors, and energy storage solutions designed for applications in health monitoring and disease treatment. My primary interest lies in investigating materials and structures that can be effectively utilized and processed cost-effectively, environmentally friendly, sustainable, and scalable. This pursuit aims to create affordable, scalable, and sustainable technologies that address challenges within the healthcare field.
 
-## Featured
+## Projects
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
