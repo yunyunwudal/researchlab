@@ -548,7 +548,7 @@
   orcid: 0000-0002-1536-1488
   plugin: sources.py
   file: sources.yaml
-  image: https://www.cell.com/cms/attachment/b5650dd6-35ee-42f9-a551-e320246667fc/fx1.jpg
+  image: https://www.cell.com/matter/issue?pii=S2590-2385(19)X0011-9#fullCover
   group: featured
 - id: doi:10.1021/acs.chemmater.8b04487
   title: "Heterogeneous Surface Orientation of Solution-Deposited Gold Films Enables\
