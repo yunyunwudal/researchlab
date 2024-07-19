@@ -7,7 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Developing textile materials and structures for epidermal and implantable devices
 
-Our research focuses on the development of sustainable and/or eco/bioresorbable electronic/microfluidic devices, biosensors, and energy storage solutions designed for applications in health monitoring and disease treatment. Our primary interest lies in investigating materials and structures that can be effectively utilized and processed cost-effectively, environmentally friendly, sustainable, and scalable. This pursuit aims to create affordable, scalable, and sustainable technologies that address challenges within the healthcare field.
+Our research focuses on developing functional textile/thread/fiber materials and structures to create devices that interface with the human body for applications in health monitoring and disease treatment. 
+
+{%
+  include figure.html
+  image="images/research overview.jpg"
+  width="50%"
+%}
 
 ## Projects
 
