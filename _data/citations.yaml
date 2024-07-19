@@ -98,3 +98,31 @@
   orcid: 0000-0002-1536-1488
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/smll.202305017
+  title: A Sewing Approach to the Fabrication of Eco/bioresorbable Electronics
+  authors:
+  - Yunyun Wu
+  - Eric Rytkin
+  - Miles Bimrose
+  - Shupeng Li
+  - Yeon Sik Choi
+  - Geumbee Lee
+  - Yue Wang
+  - Lichao Tang
+  - Micah Madrid
+  - Grace Wickerson
+  - "Jan\u2010Kai Chang"
+  - Jianyu Gu
+  - Yamin Zhang
+  - Jiaqi Liu
+  - Sameh Tawfick
+  - Yonggang Huang
+  - William P. King
+  - Igor R. Efimov
+  - John A. Rogers
+  publisher: Small
+  date: '2023-08-01'
+  link: https://doi.org/gt4s9h
+  image: https://onlinelibrary.wiley.com/cms/asset/50acb737-5b39-4054-aeb4-5a3d0f012df7/smll202370409-gra-0001-m.jpg
+  plugin: sources.py
+  file: sources.yaml
