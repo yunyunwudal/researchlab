@@ -167,6 +167,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/50acb737-5b39-4054-aeb4-5a3d0f012df7/smll202370409-gra-0001-m.jpg
+  group: featured
 - id: doi:10.1038/s41591-023-02637-5
   title: Wireless broadband acousto-mechanical sensing system for continuous physiological
     monitoring
@@ -548,6 +549,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.cell.com/cms/attachment/b5650dd6-35ee-42f9-a551-e320246667fc/fx1.jpg
+  group: featured
 - id: doi:10.1021/acs.chemmater.8b04487
   title: "Heterogeneous Surface Orientation of Solution-Deposited Gold Films Enables\
     \ Retention of Conductivity with High Strain\u2014A New Strategy for Stretchable\
@@ -628,5 +630,6 @@
   date: '2023-07-16'
   link: https://doi.org/gs4txp
   image: https://onlinelibrary.wiley.com/cms/asset/711474f4-5913-4d34-a0fd-6546801a1d55/admt202370101-gra-0001-m.jpg
+  group: featured
   plugin: sources.py
   file: sources.yaml
