@@ -4,9 +4,6 @@
 - id: doi:10.1002/smll.202305017
   image: https://onlinelibrary.wiley.com/cms/asset/50acb737-5b39-4054-aeb4-5a3d0f012df7/smll202370409-gra-0001-m.jpg
   group: featured
-- id: 10.1002/admt.202300732
-  image: https://onlinelibrary.wiley.com/cms/asset/711474f4-5913-4d34-a0fd-6546801a1d55/admt202370101-gra-0001-m.jpg
-  group: featured
 - id: 10.1021/acsami.0c16801
   image: https://pubs.acs.org/cms/10.1021/acsami.0c16801/asset/images/large/am0c16801_0008.jpeg
   group: featured
