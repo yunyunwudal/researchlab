@@ -633,3 +633,18 @@
   group: featured
   plugin: sources.py
   file: sources.yaml
+- id: 10.1021/acsami.0c16801
+  title: Velour Fabric as an Island-Bridge Architectural Design for Stretchable Textile-Based
+    Lithium-ion Battery Electrodes
+  authors:
+  - Yunyun Wu
+  - Sara S. Mechael
+  - Yiting Chen
+  - Tricia Breen Carmichael
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2020-11-06'
+  link: https://doi.org/gjsf77
+  image: https://pubs.acs.org/cms/10.1021/acsami.0c16801/asset/images/large/am0c16801_0008.jpeg
+  group: featured
+  plugin: sources.py
+  file: sources.yaml
