@@ -18,7 +18,7 @@ Halifax, NS, Canada, B3H 4R2 <br>
 
 ### Join the Team
 
-We are currently recruiting graduate and undergraduate students. If you are interested in joining, please e-mail your CV to Dr. Wu.
+We are currently recruiting graduate and undergraduate students. If you are interested in joining, please e-mail your CV to Dr. Wu.<br>
 Email address:
 {%
   include button.html
