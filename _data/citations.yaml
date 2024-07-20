@@ -610,29 +610,6 @@
   orcid: 0000-0002-1536-1488
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.1002/admt.202300732
-  title: "Thermoplastic Elastomers for Wireless, Skin\u2010Interfaced Electronic,\
-    \ and Microfluidic Devices"
-  authors:
-  - Yunyun Wu
-  - Claire Liu
-  - Mia Lapiere
-  - Joanna L. Ciatti
-  - Da Som Yang
-  - Jaime Berkovich
-  - Jeffrey B. Model
-  - Anthony Banks
-  - Roozbeh Ghaffari
-  - "Jan\u2010Kai Chang"
-  - Ralph G. Nuzzo
-  - John A. Rogers
-  publisher: Advanced Materials Technologies
-  date: '2023-07-16'
-  link: https://doi.org/gs4txp
-  image: https://onlinelibrary.wiley.com/cms/asset/711474f4-5913-4d34-a0fd-6546801a1d55/admt202370101-gra-0001-m.jpg
-  group: featured
-  plugin: sources.py
-  file: sources.yaml
 - id: 10.1021/acsami.0c16801
   title: Velour Fabric as an Island-Bridge Architectural Design for Stretchable Textile-Based
     Lithium-ion Battery Electrodes
