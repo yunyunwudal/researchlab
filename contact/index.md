@@ -9,8 +9,7 @@ nav:
 
 ### Join the Team
 
-We are currently recruiting graduate and undergraduate students. If you are interested in joining, please e-mail your CV to Dr. Wu.<br>
-Email address:
+We are currently recruiting graduate and undergraduate students. If you are interested in joining, please e-mail your CV to Dr. Wu at email address: <br>
 {%
   include button.html
   type="email"
