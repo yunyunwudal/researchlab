@@ -16,10 +16,10 @@ Dalhousie University <br>
 P.O. Box 15000 <br>
 Halifax, NS, Canada, B3H 4R2 <br>
 
----
-title: Join the Team
----
-We are not currently recruiting graduate and undergraduate students. If you are interested in joining, please send me your CV to email address: yunyun.wu@dal.ca.
+### Join the Team
+
+We are currently recruiting graduate and undergraduate students. If you are interested in joining, please e-mail your CV to Dr. Wu.
+Email address:
 {%
   include button.html
   type="email"
