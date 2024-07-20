@@ -1,10 +1,7 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: The Lab Website is Launched
 tags:
-  - biology
-  - medicine
-  - big data
+author: 
+member: 
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The lab website is up and running!
