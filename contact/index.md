@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is located at the Dentistry Building of Dalhousie University.
-Our full address is:
+Our lab is located at the Dentistry Building of Dalhousie University. <br>
+Our full address is: <br>
 Department of Applied Oral Sciences <br>
 Dentistry Building <br>
 Dalhousie University <br>
