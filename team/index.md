@@ -9,16 +9,6 @@ nav:
 
 We are a young group starting to grow!
 
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html dark=true %}
-
-We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
-We want to push the frontier of data science and train the next generation of data scientists.
-
 {%
   include button.html
   icon="fa-solid fa-handshake-angle"
@@ -26,5 +16,12 @@ We want to push the frontier of data science and train the next generation of da
   link="join"
   style="button"
 %}
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+
 
 
