@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo-big: 80px;
+$logo-big: 90px;
 $logo: 40px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -39,12 +39,10 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: 40px;
+  width: 93px
 }
 
-.logo > * {
-  height: 100%;
-}
 
 .title-text {
   display: flex;
@@ -148,12 +146,15 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
+    width: 150px;
+    margin-bottom: 20px;
   }
 
   .title-text {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin-bottom: 15px;
   }
 
   .title {
